@@ -1,7 +1,2 @@
-az storage blob copy start-batch --destination-container terms --account-name stoaccrbbuat06 --account-key t5HPlP8cb2vIyoRUDXdw8bC7f4UAl8v5BL38iDYRGQOk5L229rTJ0CQYHGpQ4NT7/bJOK7p+VG9MSwsRWtiuOg== --source-container terms --source-account-name stoaccrbbprd06 --source-account-key nsGvWdYPSVPuLsYOY5SChq/WE4JrpQ1yPFHLOlhRZwyPTAhwaoF4uWxZjsKCrikZ04qfTHpK+aT3fONjQymwIw==
-
-
-
-
-az storage blob copy start --destination-container terms --account-key t5HPlP8cb2vIyoRUDXdw8bC7f4UAl8v5BL38iDYRGQOk5L229rTJ0CQYHGpQ4NT7/bJOK7p+VG9MSwsRWtiuOg== --account-name stoaccrbbuat06 --source-account-key nsGvWdYPSVPuLsYOY5SChq/WE4JrpQ1yPFHLOlhRZwyPTAhwaoF4uWxZjsKCrikZ04qfTHpK+aT3fONjQymwIw== --source-account-name stoaccrbbprd06 --source-container terms --subscription 864347a8-505f-4f4e-9ae9-0f9c1b4320e2
-
+-- Teste de branch
+-- Teste de bug
